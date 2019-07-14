@@ -1,0 +1,781 @@
+/*
+  styling to the body section
+*/
+body{
+  background-color: #000000;
+  color: #FFA500;
+}
+
+/*
+  styling to the title container of the application
+*/
+.titleContainer {
+  font-size: 50px;
+  margin-left: 27%;
+  margin-top: 5%;
+  padding-left: 10%;
+}
+
+/*
+  styling to the header container of the application
+*/
+.headerContainer {
+  width: 100%;
+  height:20vh;
+  margin-top: 2%;
+}
+
+/*
+  styling to the speaker container of the application
+*/
+#speaker {
+  float: right;
+  width: 3vw;
+  margin:2vw;
+}
+
+/*
+  styling to the speaker image  of the application
+*/
+#speaker img{
+  width: 80%;
+}
+
+/*
+  styling to the button container of the application
+*/
+button {
+  background-color : #000000;
+  color: #FFA500;
+  border-radius: 300px;
+  border-color: #FFA500;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+/*
+  styling for the button used in the application
+*/
+button:hover {
+  opacity: 0.9;
+  -webkit-transform: scale(1.2, 1.2);
+  -moz-transform: scale(1.2, 1.2);
+  transform: scale(1.2, 1.2);
+}
+
+/*
+  styling for the button used in the application
+*/
+button:focus{
+  opacity: 1;
+  background-color: #000000;
+}
+
+/*
+  styling for the button used in the application
+*/
+.mainContainer button{
+  font-size: 35px;
+  margin-left: 42.5%;
+  margin-top: 1%;
+  padding: 15px;
+}
+
+/*
+  styling to the back button used in the application
+*/
+.backButtonContainer {
+  margin:2%;
+  padding: 20px;
+  float: left;
+}
+
+/*
+  styling to the level selection container of the application
+*/
+.levelSelectionContainer {
+  margin-left: 35%;
+  margin-top: 5%;
+  padding: 5px;
+}
+
+/*
+  styling to the level selection container buttons of the application
+*/
+.levelSelectionContainer button{
+  padding: 10px;
+  margin-left: 1%;
+  margin-right: 2%;
+  margin-top: 2%;
+  width: 25%;
+}
+
+/*
+  styling to the words page container of the application
+*/
+.wordsPageMainContainer {
+  margin-left: 45%;
+  padding: 5px;
+}
+
+/*
+  styling to the words page button of the application
+*/
+.wordsPageMainContainer button{
+  margin-left: -15%;
+  width:50%;
+}
+
+/*
+  styling to the numbers page button of the application
+*/
+.numbersPageMainContainer button{
+  margin-left: -15%;
+  width:50%;
+}
+
+/*
+  styling to the numbers page container of the application
+*/
+.numbersPageMainContainer {
+  margin-left: 45%;
+  padding: 5px;
+}
+
+/*
+  styling to the questions container of the application
+*/
+.questionContainer {
+  display: inline-block;
+  margin-top: 2%;
+  margin-left: 10%;
+  text-align: center;
+  padding:1%;
+  width: 35vw;
+  height: 52vh;
+  border: 2px solid #FFA500;
+}
+
+/*
+  styling to the questions container division of the application
+*/
+.questionContainer div{
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-top: 5%;
+  height:15%;
+  font-size: 20px;
+  font-weight: bold;
+  width:100%;
+}
+
+/*
+  styling to the questions container image of the application
+*/
+.questionContainer img {
+  width: 25vw;
+  height:25vh;
+  align:center;
+}
+
+/*
+  styling to the answer container of the application
+*/
+.answerContainer {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-left: 2%;
+  margin-top: 2%;
+  padding: 20px;
+  height: 50vh;
+  width: 35vw;
+  border: 2px solid #FFA500;
+  vertical-align:top;
+}
+
+/*
+  styling to the answer button container of the application
+*/
+.answerContainer button{
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-top: 50px;
+  border: 2px solid #FFA500;
+}
+
+/*
+  styling to the answer text input field container of the application
+*/
+.answerContainer input{
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-top: 10%;
+  background-color: #808080;
+  color: #000000;
+  height:5vh;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid #FFA500;
+}
+
+/*
+  styling of levelUp animation of the application
+*/
+@keyframes won {
+  from {background-color: #000000;}
+  to {background-color: #808080;}
+}
+.won {
+  animation-name: won;
+  animation-duration: 4s;
+  animation-timing-function: ease-in;
+  animation-fill-mode: grow;
+  height:100%;
+  text-align:center;
+}
+
+/*
+  styling of level cleared
+*/
+.levelClearedSubContainer{
+  padding: 40vh;
+}
+
+.levelClearedContainer {
+  background-color: #808080;
+}
+
+
+
+/*
+  stylings used when orientation is in portrait mode
+*/
+@media screen and (orientation:portrait) {
+
+  /*
+    styling to the body section
+  */
+  body{
+    background-color: #000000;
+    color: #FFA500;
+  }
+
+  /*
+    styling to the title container of the application
+  */
+  .titleContainer{
+      width:100%
+      font-size: 50px;
+      margin-left: 27%;
+      margin-top: 35%;
+      padding-left: 10%;
+    }
+
+  .headerContainer {
+      width: 100%;
+      height:20vh;
+      margin-top: 2%;
+    }
+    /*
+      styling to the speaker container of the application
+    */
+    #speaker {
+      float: right;
+      width: 5vw;
+      margin-top:10vw;
+      margin-right: 5vw;
+    }
+
+    /*
+      styling to the speaker image container of the application
+    */
+    #speaker img{
+      width: 80%;
+    }
+
+    /*
+      styling to the button container of the application
+    */
+    button {
+      background-color : #000000;
+      color: #FFA500;
+      border-radius: 300px;
+      border-color: #FFA500;
+      cursor: pointer;
+      font-size: 25px;
+    }
+
+    /*
+      styling for the button used in the application
+    */
+    button:hover {
+      opacity: 0.9;
+      -webkit-transform: scale(1.2, 1.2);
+      -moz-transform: scale(1.2, 1.2);
+      transform: scale(1.2, 1.2);
+    }
+
+    /*
+      styling for the button used in the application
+    */
+    button:focus{
+      opacity: 1;
+      background-color: #000000;
+    }
+
+    /*
+      styling for the main container button used in the application
+    */
+    .mainContainer button{
+      font-size: 35px;
+      margin-left: 43%;
+      margin-top: 5%;
+      padding: 15px;
+    }
+
+    /*
+      styling for the back button container used in the application
+    */
+    .backButtonContainer {
+      margin:10%;
+      padding: 20px;
+      float: left;
+    }
+
+    /*
+      styling for the level selection container used in the application
+    */
+    .levelSelectionContainer {
+      margin-left: 25%;
+      margin-top: 40%;
+      padding: 5px;
+    }
+
+    /*
+      styling for the level selection button container used in the application
+    */
+    .levelSelectionContainer button{
+      padding: 5%;
+      margin-left: 1%;
+      margin-right: 2%;
+      margin-top: 2%;
+      width: 70%;
+    }
+
+    /*
+      styling for the words page container used in the application
+    */
+    .wordsPageMainContainer {
+      margin-left: 45%;
+      margin-top: 25%;
+      padding: 5px;
+      height: 90%;
+    }
+
+    /*
+      styling for the words page main container used in the application
+    */
+    .wordsPageMainContainer button{
+      margin-left: -15%;
+      padding: 5px;
+      width:50%;
+    }
+
+    /*
+      styling for the numbers page button container used in the application
+    */
+    .numbersPageMainContainer button{
+      margin-left: -15%;
+      padding: 5px;
+      width:50%;
+    }
+
+    /*
+      styling for the numbers page container used in the application
+    */
+    .numbersPageMainContainer {
+      margin-left: 45%;
+      margin-top: 25%;
+      padding: 5px;
+      height: 90%;
+    }
+
+    /*
+      styling for the questions container used in the application
+    */
+    .questionContainer {
+      display: inline-block;
+      margin-top: 2%;
+      margin-left: 10%;
+      text-align: center;
+      padding:1%;
+      width: 35vw;
+      height: 52vh;
+      border: 2px solid #FFA500;
+    }
+
+    /*
+      styling for the questions division container used in the application
+    */
+    .questionContainer div{
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      margin-top: 50%;
+      height:15%;
+      font-size: 20px;
+      font-weight: bold;
+      width:100%;
+    }
+
+    /*
+      styling for the questions image container used in the application
+    */
+    .questionContainer img {
+      width: 90%;
+      height:90%;
+      align:center;
+    }
+
+    /*
+      styling for the answer container used in the application
+    */
+    .answerContainer {
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      margin-left: 2%;
+      margin-top: 2%;
+      padding: 20px;
+      height: 51vh;
+      width: 35vw;
+      border: 2px solid #FFA500;
+      vertical-align:top;
+    }
+
+    /*
+      styling for the answer button container used in the application
+    */
+    .answerContainer button{
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      margin-top: 25%;
+      border: 2px solid #FFA500;
+    }
+
+    /*
+      styling for the answer input field container used in the application
+    */
+    .answerContainer input{
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      margin-top: 80%;
+      background-color: #808080;
+      color: #000000;
+      height:5vh;
+      font-size: 20px;
+      font-weight: bold;
+      border: 2px solid #FFA500;
+    }
+
+    /*
+      styling for the leveledUp page used in the application
+    */
+    @keyframes won {
+      from {background-color: #000000;}
+      to {background-color: #808080;}
+    }
+    .won {
+      animation-name: won;
+      animation-duration: 4s;
+      animation-timing-function: ease-in;
+      animation-fill-mode: grow;
+      height:100%;
+      text-align:center;
+    }
+    .levelClearedSubContainer{
+      padding: 40%;
+    }
+    .levelClearedSubContainer h1{
+      width:100%;
+      margin-top:200%;
+    }
+    .levelClearedSubContainer button{
+      width:100%;
+      margin-top:10%;
+      padding:5px:
+    }
+    /*
+      styling for the level cleared container used in the application
+    */
+    .levelClearedContainer {
+      background-color: #808080;
+    }
+}
+
+
+/*
+  stylings used when the orientation has met specified margins
+*/
+@media screen and (max-width:1230px) screen and (min-width:900px){
+    /*
+      styling for the body of the application
+    */
+    body{
+      background-color: #000000;
+      color: #FFA500;
+    }
+
+    /*
+      styling for the title container used in the application
+    */
+    .titleContainer{
+      font-size: 50px;
+      margin-left: 23%;
+      margin-top: -5%;
+    }
+
+    /*
+      styling for the header container used in the application
+    */
+    .headerContainer {
+      width: 100%;
+      height:20vh;
+      margin-top: 2%;
+    }
+
+    /*
+      styling for the speaker container used in the application
+    */
+    #speaker {
+      float: right;
+      width: 5vw;
+      margin-top:3vw;
+      margin-right: 3vw;
+    }
+
+    /*
+      styling for the speaker image container used in the application
+    */
+    #speaker img{
+      width: 80%;
+    }
+
+    /*
+      styling for the button container used in the application
+    */
+    button {
+      background-color : #000000;
+      color: #FFA500;
+      border-radius: 300px;
+      border-color: #FFA500;
+      cursor: pointer;
+      font-size: 25px;
+    }
+
+    /*
+      styling for the button container used in the application
+    */
+    button:hover {
+      opacity: 0.9;
+      -webkit-transform: scale(1.2, 1.2);
+      -moz-transform: scale(1.2, 1.2);
+      transform: scale(1.2, 1.2);
+    }
+
+    /*
+      styling for the button container used in the application
+    */
+    button:focus{
+      opacity: 1;
+      background-color: #000000;
+    }
+
+    /*
+      styling for the main page button container used in the application
+    */
+    .mainContainer button{
+      font-size: 35px;
+      margin-left: 42%;
+      margin-top: -5%;
+      padding: 15px;
+    }
+
+    /*
+      styling for the back button container used in the application
+    */
+    .backButtonContainer {
+      margin-top:2.5%;
+      padding: 5px;
+      float: left;
+    }
+
+    /*
+      styling for the level selection page container used in the application
+    */
+    .levelSelectionContainer {
+      margin-left: 25%;
+      margin-top: 0%;
+      padding: 5px;
+    }
+
+    /*
+      styling for the level selection page button container used in the
+      application
+    */
+    .levelSelectionContainer button{
+      padding: 5%;
+      margin-left: 10%;
+      margin-top: 3%;
+      width: 50%;
+    }
+
+    /*
+      styling for the words page  container used in the application
+    */
+    .wordsPageMainContainer {
+      margin-left: 45%;
+      padding: 5px;
+      height: 90%;
+    }
+
+    /*
+      styling for the words page button container used in the application
+    */
+    .wordsPageMainContainer button{
+      margin-left: -15%;
+      padding: 5px;
+      width:50%;
+    }
+
+    /*
+      styling for the numbers page button container used in the application
+    */
+    .numbersPageMainContainer button{
+      margin-left: -15%;
+      padding: 5px;
+      width:50%;
+    }
+
+    /*
+      styling for the numbers page container used in the application
+    */
+    .numbersPageMainContainer {
+      margin-left: 45%;
+      padding: 5px;
+      height: 90%;
+    }
+
+    /*
+      styling for the questions container used in the application
+    */
+    .questionContainer {
+      display: inline-block;
+      margin-top: 2%;
+      margin-left: 10%;
+      text-align: center;
+      padding:1%;
+      width: 35vw;
+      height: 52vh;
+      border: 2px solid #FFA500;
+    }
+
+    /*
+      styling for the questions division container used in the application
+    */
+    .questionContainer div{
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      margin-top: 15%;
+      height:15%;
+      font-size: 20px;
+      font-weight: bold;
+      width:100%;
+    }
+
+    /*
+      styling for the questions image container used in the application
+    */
+    .questionContainer img {
+      width: 100%;
+      height:200%;
+      align:center;
+    }
+
+    /*
+      styling for the answer container used in the application
+    */
+    .answerContainer {
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      margin-left: 2%;
+      margin-top: 2%;
+      padding: 20px;
+      height: 48vh;
+      width: 35vw;
+      border: 2px solid #FFA500;
+      vertical-align:top;
+    }
+
+    /*
+      styling for the answer button container used in the application
+    */
+    .answerContainer button{
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      margin-top: 15%;
+      border: 2px solid #FFA500;
+    }
+
+    /*
+      styling for the answer input field container used in the application
+    */
+    .answerContainer input{
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      margin-top: 20%;
+      background-color: #808080;
+      color: #000000;
+      height:5vh;
+      font-size: 20px;
+      font-weight: bold;
+      border: 2px solid #FFA500;
+    }
+
+    /*
+      styling for the leveledUp page used in the application
+    */
+    @keyframes won {
+      from {background-color: #000000;}
+      to {background-color: #808080;}
+    }
+
+    .won {
+      animation-name: won;
+      animation-duration: 4s;
+      animation-timing-function: ease-in;
+      animation-fill-mode: grow;
+      height:100%;
+      text-align:center;
+    }
+    .levelClearedSubContainer{
+      padding: 40vh;
+    }
+
+    /*
+      styling for the level cleared container used in the application
+    */
+    .levelClearedContainer {
+      background-color: #808080;
+    }
+  }

@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------
+    THIS FILE CONSISTS OF ALL THE ATTRIBUTIONS FOR CONTENT USED IN THE GAME
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+                          Images Attributions
+--------------------------------------------------------------------------------
+Name, Author, Download URL, Attribution URL, License type
+
+apple, Clker-Free-Vector-Images, https://pixabay.com/vectors/apple-red-fruit-fresh-ripe-juicy-25236/, N/A, CCO
+banana, mayapujiyati, https://pixabay.com/vectors/banana-fruit-food-vector-image-1217511/, N/A, CCO
+cat, Janjf93, https://pixabay.com/vectors/cat-cat-s-cradle-sweet-animal-pet-1605131/, N/A, CCO
+dog, OpenCLipart-Vectors/27427 images, https://pixabay.com/vectors/animal-canine-cartoon-dog-fido-1296351/, N/A, CCO
+elephant, Clker-Free-Vector-Images, https://pixabay.com/vectors/elephant-animal-mammal-black-grey-35527/, N/A, COO
+fan, Clker-Free-Vector-Images, https://pixabay.com/vectors/fan-table-air-ventilator-isolated-309553/, N/A, CCO
+green, Clker-Free-Vector-Images, https://pixabay.com/vectors/button-gui-minus-green-colour-24843/, N/A, CCO
+blue, Clker-Free-Vector-Images, https://pixabay.com/vectors/splatter-splash-ink-blue-paint-303254/, N/A, CCO
+yellow, PlumePloume, https://pixabay.com/illustrations/task-yellow-splash-painting-liquid-1528002/, N/A, CCO
+grey, ulotkidruk, https://pixabay.com/photos/paper-texture-invoiced-gray-color-1468878/, N/A, CCO
+orange, Clker-Free-Vector-Images, https://pixabay.com/vectors/splash-ink-orange-splatter-drop-297560/, N/A, CCO
+red, Clker-Free-Vector-Images, https://pixabay.com/vectors/red-paint-ink-splatter-splash-41503/, N/A, CCO
+speakerOn, Smashicons, https://www.flaticon.com/authors/smashicons,  Attribution for author within game page, CCO
+speakerOff, Smashicons, https://www.flaticon.com/authors/smashicons,  Attribution for author within game page, CCO
+aeroplane, Clker-Free-Vector-Images, https://pixabay.com/vectors/airplane-aeroplane-aviation-26562/, N/A, CCO
+grapes, Clker-Free-Vector-Images, https://pixabay.com/vectors/grapes-fruit-food-wine-plant-vine-34298/, N/A, CCO
+television, OpenCLipart-Vectors/27427, https://pixabay.com/vectors/television-tv-tube-tv-vintage-old-150304/, N/A, CCO
+chocolate, lethutrang, https://pixabay.com/vectors/chocolate-sweet-dessert-cocoa-2896696/, N/A, CCO
+car, OpenCLipart-Vectors/27427, https://pixabay.com/vectors/car-red-cabriolet-sports-car-chevy-158548/, N/A, CCO
+train, OpenCLipart-Vectors/27427, https://pixabay.com/vectors/berlin-german-germany-subway-train-2029629/, N/A, CCO
+shoes, Clker-Free-Vector-Images, https://pixabay.com/vectors/athletic-shoes-shoes-sneakers-25493/, N/A, CCO
+mirror, JCamargo, https://pixabay.com/vectors/mirror-decoration-mobile-2109680/, N/A , CCO
+clothes, OpenCLipart-Vectors/27427, https://pixabay.com/vectors/blouse-clothes-clothing-colorful-1297721/, N/A, CCO
+house, OpenCLipart-Vectors/27427, https://pixabay.com/vectors/house-building-architecture-outside-161757/, N/A, CCO
+school, OpenCLipart-Vectors/29588, https://pixabay.com/vectors/school-building-education-property-295210/, N/A, CCO
+pencil, OpenCLipart-Vectors/27427, https://pixabay.com/vectors/school-pencil-pen-write-sketch-153561/, N/A, CCO
+dolphine, OpenCLipart-Vectors/29588, https://pixabay.com/vectors/dolphin-ocean-animal-mammal-sea-41436/, N/A, CCO
+aquarium, OpenCLipart-Vectors/29588, https://pixabay.com/vectors/fishtank-cartoon-aquarium-water-304205/, N/A, CCO
+mushroom, OpenCLipart-Vectors/27427, https://pixabay.com/vectors/mushroom-vegetable-raw-food-fresh-576462/, N/A, CCO
+capsicum, OpenCLipart-Vectors/29588, https://pixabay.com/vectors/bell-pepper-red-sweet-pepper-33623/, N/A, CCO
+pineapple, Clker-Free-Vector-Images/29588, https://pixabay.com/vectors/pineapple-exotic-food-fruit-295366/, N/A, CCO
+octopus, OpenCLipart-Vectors/27427, https://pixabay.com/vectors/cartoon-octopus-orange-red-sea-2027746/, N/A, CCO
+
+--------------------------------------------------------------------------------
+                          Sounds Attributions
+--------------------------------------------------------------------------------
+Name, Author, Download URL, Attribution URL, License type
+
+backGroundMusic, Royalty Free Music from Bensound, https://www.bensound.com/royalty-free-music/track/little-idea, www.bensound.com, CCO
+level_up, Adam Vitovský, https://www.adamvitovsky.com/for-kids, N/A, CCO

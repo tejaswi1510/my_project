@@ -1,0 +1,162 @@
+--------------------------------------------------------------------------------
+                                CHANGE LOG
+--------------------------------------------------------------------------------
+
+Week 4, Wednesday, 27/March
+Finished
+- Initial data structure for questions & answers is created.
+- Styled application according to the guidelines mentioned in the project plan.
+  i.e, Used black colour background keeping target users for this game in mind
+  to reduce stress on their eyes while using this application.
+
+Still working on
+- Creating elements to be used in the application.
+
+Milestone progress
+- All the required JavaScript files are linked in index file.
+
+--------------------------------------------------------------------------------
+Week 4, Thursday, 28/March
+Finished
+- Data structure of questions & answers is modified according to the
+  requirements.
+
+Still working on
+- Collecting required data for questions & answers.
+
+Milestone progress
+- Most of the initial required for testing the application is acquired.
+
+--------------------------------------------------------------------------------
+Week 5, Wednesday, 3/April
+Finished
+- Categorising JavaScript files according to granularity levels.
+- Defined functions to load landing page & loadLevelSelectionPage.
+
+Still working on
+- Levels page content & layout of each learning module.
+
+Milestone progress
+- Target to get basic layout of the application is 50% achieved.
+
+--------------------------------------------------------------------------------
+Week 6, Wednesday, 10/April
+Finished
+- Basic layout of the application.
+- Defined functions to create levels dynamically according to configured levels
+  in the config,js file.
+
+Still working on
+- Adding level wise content to the levels & randomly selecting  questions.
+
+Milestone progress
+- Basic layout is created for the application.
+
+--------------------------------------------------------------------------------
+Week 6,Sunday, 14/April
+Finished
+- Defined createNumbersLevelContent() & createWordsLevelContent() functions to
+  generate respective learning modules content.
+
+Still working on
+- Randomly getting questions from the data.
+
+Milestone progress
+- Able to load data to the level contents page.
+
+--------------------------------------------------------------------------------
+
+
+Week 7,Thursday, 18/April
+Finished
+- Defined shuffle() function to randomly select elements from the questions
+  array.
+- Added more questions data.
+
+Still working on
+- Handling bugs to load data correctly.
+
+Milestone progress
+- Apart from bug of words questions & numbers questions getting mixed up, able
+  to get data randomly.
+
+--------------------------------------------------------------------------------
+Week 7, Friday, 19/April
+Finished
+- Downloaded good vector images content for where ever required.
+
+Still Working on
+- Resolving bug on mixing of words & numbers questions.
+- Adding background music to the application.
+
+Milestone progress
+- No much progress since the last log except that more vector images are
+  downloaded.
+
+--------------------------------------------------------------------------------
+Week 8, Friday, 3/May
+Finished
+- Resolved bug of random mixing of numbers & words data.
+
+Still working on
+- Consistent layout for the application.
+
+Milestone progress
+- Almost the basic structure of the application is ready & the game is in
+  playable situation except that pf having any background music.
+
+--------------------------------------------------------------------------------
+Week 8, Sunday, 5/May
+Finished
+- Added logic for music toggling.
+
+Still working on
+- Styling for different layout of the game.
+
+Milestone progress
+- Apart from very few disturbances in the layout the game is almost completed.
+
+--------------------------------------------------------------------------------
+Week 9, Monday, 6/May
+Finished
+- Achieved consistent layout for all the mode mentioned in the marking ruberics.
+
+Still working on
+- Writing well explained comments.
+
+Milestone progress
+- 90% of all the required tasks are done for the project ZIP file to be
+  uploaded!!
+
+--------------------------------------------------------------------------------
+Week 10, Monday, 13/May
+Finished
+- Completed comments for each and every function in my code.
+- Renamed some functions to be easily understandable to anyone who reads my code.
+
+Still working on
+- Making Demonstration video.
+
+--------------------------------------------------------------------------------
+Week 10,Tuesday, 14/May
+Finished
+- Sample demonstration video is made.
+
+Still working on
+- Generating demonstration video.
+
+--------------------------------------------------------------------------------
+Week 10,Wednesday, 15/May
+Finished
+- Final Demonstration video is made.
+
+Still working on
+- Editing of demonstration video.
+
+--------------------------------------------------------------------------------
+Week 10,Thursday, 16/May
+Finished
+- Editing & Uploading Demonstration video.
+- 100% of the work is done the ZIP file is ready to be uploaded.
+
+--------------------------------------------------------------------------------
